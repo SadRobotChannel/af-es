@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: Los mejores grifos de criptomonedas
 comments: false
-img: https://www.staleblock.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
-URL: https://www.staleblock.com/index.html
+img: https://es.staleblock.com/assets/images/all-faucets.com-thumb.png
+alt: Los grifos de criptomonedas son sistemas de recompensas en forma de un sitio web o una aplicación que dispensan monedas gratis.
+desc: Si eres nuevo en crypto faucets, este sitio es para ti. Aprenda a maximizar el valor de su tiempo y esfuerzo mientras reclama desde sitios de grifos de bitcoin gratuitos.
+URL: https://es.staleblock.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+Si eres nuevo en crypto faucets, este sitio es para ti. Enumeramos bitcoin y otras llaves de moneda digital que se verifican por su valor y reputación. Por lo general, las personas comienzan a probar los grifos por curiosidad o como un pasatiempo, pero con un poco de conocimiento y consistencia, ese pasatiempo puede ofrecer un buen ingreso. Nuestro objetivo es compartir el conocimiento y permitirle ganar dinero digital de la manera que se adapte a sus intereses y su estilo de vida.
 
-Continue reading: <a href="https://www.staleblock.com/daily/2019/12/12/index.html">Getting Started with Bitcoin Faucets</a>.
+Sigue leyendo: <a href="https://es.staleblock.com/daily/2019/12/12/index.html">Comenzando con las llaves de bitcoin</a>.
 
 ---
-#### 2019's Favorite Faucets
+#### Grifos favoritos de 2019
 
-A lot had changed since we first published this website. One, the price of the Bitcoin went up from circa 3,500 USD to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars. Such an increase in value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many have gone offline without distributing the amounts in your wallets, thus simply stealing your money. These are the risks that you need to be aware of and accept when investing your time or your money in cryptocurrency related services.
+Mucho ha cambiado desde que publicamos este sitio web. Uno, el precio del Bitcoin subió de alrededor de 3.500 USD a más de 10.000 USD, llegando ocasionalmente a hasta 12 o 13 miles de dólares estadounidenses. Tal aumento en el valor había dejado fuera del negocio a muchos de los sitios web de faucet, ya que no podían darse el lujo de regalar las recompensas prometidas. Muchos se han desconectado sin distribuir las cantidades en sus billeteras, simplemente robando su dinero. Estos son los riesgos que debe conocer y aceptar al invertir su tiempo o su dinero en servicios relacionados con la criptomoneda.
 
-Still, the following faucets sites remain loyal to their members and continue dispensing free satoshi:
+Aún así, los siguientes sitios de faucets siguen siendo leales a sus miembros y continúan distribuyendo satoshi gratis:
 
 - <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
 - <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
@@ -53,4 +53,3 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
