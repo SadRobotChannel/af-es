@@ -36,10 +36,3 @@ Aún así, los siguientes sitios de faucets siguen siendo leales a sus miembros 
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### Únete a nuestra nueva comunidad criptográfica
-
-Este sitio, all-faucets.com está enfocado específicamente en las llaves de criptomonedas. Y aunque el nombre de dominio implica que enumeraremos "todos" los grifos, en realidad solo hay un puñado de buenos grifos que valen la pena por su tiempo y esfuerzo. Sin embargo, hay muchas otras formas en que puede obtener criptomonedas: minería, replanteo, OPI y lanzamientos aéreos, trabajos de criptografía, etc. Hay muchas oportunidades, pero necesita información de calidad para aprovechar estas oportunidades para su ventaja.
-
-Es por esta razón que comencé un nuevo sitio comunitario, <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. ¡El mundo de las criptomonedas va mucho más allá de las criptomonedas! Únase a mí para construir una criptocomunidad inteligente en <i>StaleBlock.com</i>.
